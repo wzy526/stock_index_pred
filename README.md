@@ -1,2 +1,2 @@
 # stock_index_pred
-Screening stocks with high correlations from S&amp;P500 index and run stock return predictions with various models to test accuracy
+Run stock return predictions on TSLA with various models to test accuracy
